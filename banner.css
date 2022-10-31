@@ -27,4 +27,11 @@
 .ewk_sobra h1{
   font-size: 8vw;
   margin-bottom: 10px;
+}.ewk_sobra p{
+  font-size: 4vw;
+  margin-bottom: 10px;
+}
+
+.ewk_cont_banner_link{
+  margin: 15px;
 }
