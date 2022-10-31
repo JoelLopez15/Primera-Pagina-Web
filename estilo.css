@@ -2,3 +2,22 @@ body{
   background-color: #5a078e;
   font-family: "Comic Sans", Arial;
 }
+
+h1{
+    color: white;
+}
+
+ul li{
+    color: #00f;
+}
+
+aside{
+    float: left;
+    width: 30%;
+    clear: both;
+}
+
+section{
+    float: left;
+    width: 70%;
+}
